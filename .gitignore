@@ -1,0 +1,16 @@
+.zencoder
+.zenflow
+*.log
+*.tmp
+*.bak
+.DS_Store
+node_modules/
+dist/
+coverage/
+build/
+.env
+.idea/
+.vscode/
+
+# ignore all node_modules folders
+**/node_modules/
